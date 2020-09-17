@@ -1,0 +1,98 @@
+.enrouge
+{
+    color: rgb(177, 66, 2) ;
+}
+
+.wrong
+{
+    color: rgba(180, 30, 30, 0.644);
+}
+
+*
+{
+    line-height: 1.4em;
+}
+
+*
+{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1.5em;
+    width: 800px;
+}
+
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.toutpetit
+{
+    font-size: 0.4em;
+}
+
+.moinspetit
+{
+    font-size: 0.6em;
+}
+
+.bizarre
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.numero
+{
+   font-weight: bold
+}
+
+p
+{
+    text-align: justify;
+}
+
+.bleu
+{
+    color: blue;
+}
+
+.violet
+{
+    color: rgb(179, 112, 241);
+}
+
+.c
+{
+    color: rgb(118, 212, 24);
+}
+
+.o
+{
+    color: darkcyan;
+}
+
+.l
+{
+    color: rgb(221, 11, 193);
+}
+
+.o
+{
+    color: rgb(77, 182, 214);
+}
+
+.r
+{
+    color: deeppink;
+}
+
+.s
+{
+    color: gold;
+}
+
+
+
+
+
+
