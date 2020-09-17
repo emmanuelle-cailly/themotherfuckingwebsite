@@ -1,0 +1,27 @@
+*
+{
+    text-align: justify,center;
+}
+
+*
+{
+    margin-top: 0,8em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+}
+
+*
+{
+    color: rgb(36, 35, 35);
+}
+
+*
+{
+    line-height: 1.4em;
+}
+
+h1, h2, h3, h4
+{
+    color: rgb(36, 35, 35);
+}
