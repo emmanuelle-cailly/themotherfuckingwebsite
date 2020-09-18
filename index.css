@@ -1,0 +1,63 @@
+#header
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    word-wrap: break-word;
+    padding: 16px;
+    
+}
+
+.menulink
+{
+margin-left: 10px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #636363;
+}
+
+.menubutton
+{
+    background-color:#2558c4;
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+
+}
+
+#appli
+{
+    width: 75%;
+    height: auto;
+}
+
+#maincontent
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    flex-direction:column;
+}
+
+.eh
+{
+    display:flex;
+    flex-direction: inherit;
+    padding: 11px;
+    justify-content: space-between;
+    
+    
+}
+
+
+#footer
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+   
